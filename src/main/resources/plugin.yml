@@ -1,0 +1,4 @@
+name: HNPlayerStats
+version: '${version}'
+main: heyblock0712.hnplayerstats.HNPlayerStats
+api-version: '1.20'
