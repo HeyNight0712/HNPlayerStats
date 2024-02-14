@@ -1,0 +1,10 @@
+name: HNPlayerStats
+version: '1.0.0'
+main: heyblock0712.hnplayerstats.HNPlayerStats
+api-version: '1.20'
+
+commands:
+  statistic:
+    description: 統計數據
+    usage: /statistic
+    aliases: [stat]
